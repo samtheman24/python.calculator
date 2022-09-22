@@ -1,2 +1,2 @@
-# Customize Python Calculator
+# Customised Python Calculator
 ### fit for purpose
