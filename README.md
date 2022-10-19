@@ -5,7 +5,7 @@
 this design is made for people that are on the older side.
 * #### colour
   * the colours that have been used are used because they make the cakcukator look bright.
- 
+  * the **website** i used for these colours is 
 there are the signs on the side that have the sign and in brackets what it is
 (e.g: / (divide))
 
