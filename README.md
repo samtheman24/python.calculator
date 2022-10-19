@@ -3,6 +3,8 @@
 
 #### design breif:
 this design is made for people that are on the older side.
+* colour
+  *
 there are the signs on the side that have the sign and in brackets what it is
 (e.g: / (divide))
 
