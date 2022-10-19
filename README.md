@@ -13,7 +13,7 @@ the buttons are also bigger just incase some people might accidentely mis click 
 hit the wrong botton
 
 
-this is a photo of og my calculator
+this is a photo of my calculator
 <a href="task"><image src="" title="the task" width=950>
 
 
